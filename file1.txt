@@ -1,2 +1,2 @@
-something 
-
+something new added text
+new line
